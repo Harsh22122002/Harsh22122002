@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sen Harsh Rajkumar</h1>
 <h3 align="center">Focusing and Learning frontend as well as backend web development.</h3>
 
-<img align="right" alt="coding" width=400 src"![gi](https://user-images.githubusercontent.com/100839612/229760632-1e4af48e-144c-4192-8e32-212c423824e8.gif)">
+![gi](https://user-images.githubusercontent.com/100839612/229760632-1e4af48e-144c-4192-8e32-212c423824e8.gif)
 
 
 
